@@ -1,5 +1,7 @@
 # Powershell commands
 
+![Banner](./banner.svg)
+
 > Some useful commands to run in the PowerShell console
 
 ## Get list of big files
